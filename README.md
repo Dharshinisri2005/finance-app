@@ -1,4 +1,4 @@
-# Women's Financial Empowerment App
+# Women's Financial Empowerment App -FINANA
 
 ## 🌟 Overview
 This Flutter app is designed to enhance financial empowerment among women by providing educational resources, budgeting tools, an expense tracker, financial planning assistance, and calculators like SIP and EMI. The app features an attractive UI tailored for Women's Day Hackathon. 
